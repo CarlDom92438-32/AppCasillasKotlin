@@ -1,6 +1,6 @@
 <?php
 
-require_once $_SERVER['DOCUMENT_ROOT'] . '/com.app.casillas/conexion/dbConnection.php';
+require_once $_SERVER['DOCUMENT_ROOT'] . '/AppCasillasKotlin/dbConnection.php';
 
 $cve = $_GET["CVE"];
 
